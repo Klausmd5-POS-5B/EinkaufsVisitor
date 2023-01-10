@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EinkaufswagenVisitor", "EinkaufswagenVisitor\EinkaufswagenVisitor.csproj", "{B715FE8E-6244-4FFD-B4A3-0EF5EC128628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementLib", "ElementLib\ElementLib.csproj", "{506D6CB7-7605-4B43-BFF1-B6A127AC9E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{EC0D0639-D26D-4265-BFAD-700BD0D39384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B715FE8E-6244-4FFD-B4A3-0EF5EC128628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B715FE8E-6244-4FFD-B4A3-0EF5EC128628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B715FE8E-6244-4FFD-B4A3-0EF5EC128628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B715FE8E-6244-4FFD-B4A3-0EF5EC128628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506D6CB7-7605-4B43-BFF1-B6A127AC9E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506D6CB7-7605-4B43-BFF1-B6A127AC9E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506D6CB7-7605-4B43-BFF1-B6A127AC9E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506D6CB7-7605-4B43-BFF1-B6A127AC9E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0D0639-D26D-4265-BFAD-700BD0D39384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0D0639-D26D-4265-BFAD-700BD0D39384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0D0639-D26D-4265-BFAD-700BD0D39384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0D0639-D26D-4265-BFAD-700BD0D39384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

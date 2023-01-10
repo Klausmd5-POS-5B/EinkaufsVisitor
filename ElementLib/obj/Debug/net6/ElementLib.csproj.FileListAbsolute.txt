@@ -1,0 +1,12 @@
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\bin\Debug\net6\ElementLib.deps.json
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\bin\Debug\net6\ElementLib.dll
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\bin\Debug\net6\ElementLib.pdb
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ElementLib.csproj.AssemblyReference.cache
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ElementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ElementLib.AssemblyInfoInputs.cache
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ElementLib.AssemblyInfo.cs
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ElementLib.csproj.CoreCompileInputs.cache
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ElementLib.dll
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\refint\ElementLib.dll
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ElementLib.pdb
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\ElementLib\obj\Debug\net6\ref\ElementLib.dll

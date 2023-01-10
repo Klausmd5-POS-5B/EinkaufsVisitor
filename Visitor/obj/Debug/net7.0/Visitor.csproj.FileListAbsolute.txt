@@ -1,0 +1,15 @@
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\bin\Debug\net7.0\Visitor.deps.json
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\bin\Debug\net7.0\Visitor.dll
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\bin\Debug\net7.0\Visitor.pdb
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\bin\Debug\net7.0\ElementLib.dll
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\bin\Debug\net7.0\ElementLib.pdb
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.csproj.AssemblyReference.cache
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfo.cs
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.csproj.CopyComplete
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.dll
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\refint\Visitor.dll
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\Visitor.pdb
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\Visitor\obj\Debug\net7.0\ref\Visitor.dll

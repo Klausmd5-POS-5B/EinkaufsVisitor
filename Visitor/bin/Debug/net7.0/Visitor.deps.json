@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Visitor/1.0.0": {
+        "dependencies": {
+          "ElementLib": "1.0.0"
+        },
+        "runtime": {
+          "Visitor.dll": {}
+        }
+      },
+      "ElementLib/1.0.0": {
+        "runtime": {
+          "ElementLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visitor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElementLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
