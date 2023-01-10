@@ -6,6 +6,8 @@ public class Beverage : Good
   public Beverage()
   {
     Name = "Beverage";
+    Alcohol = new Random().Next(1, 75);
+    Calories = new Random().Next(75, 750);
   }
   
   public int Calories { get; set; }

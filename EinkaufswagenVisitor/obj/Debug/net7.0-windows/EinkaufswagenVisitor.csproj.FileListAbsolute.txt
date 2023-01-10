@@ -24,3 +24,5 @@ C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\EinkaufswagenVisitor\bin\Debug
 C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\EinkaufswagenVisitor\bin\Debug\net7.0-windows\ElementLib.pdb
 C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\EinkaufswagenVisitor\bin\Debug\net7.0-windows\Visitor.pdb
 C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\EinkaufswagenVisitor\obj\Debug\net7.0-windows\EinkaufswagenVisitor.csproj.CopyComplete
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\EinkaufswagenVisitor\obj\Debug\net7.0-windows\BrowserBlackMagic.g.cs
+C:\Users\klaus\RiderProjects\EinkaufswagenVisitor\EinkaufswagenVisitor\obj\Debug\net7.0-windows\BrowserBlackMagic.baml

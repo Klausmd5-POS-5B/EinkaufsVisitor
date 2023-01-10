@@ -1,4 +1,5 @@
-﻿using ElementLib;
+﻿using System;
+using ElementLib;
 using Visitor;
 
 namespace EinkaufswagenVisitor;
@@ -18,14 +19,15 @@ public static class ExtMeth
     
     public static IVisitor GetMeth(this string name)
     {
+        Console.WriteLine(name);
         return name.ToLower() switch
         {
-            "durchschn. alkoholgehalt" => new StringVisitor(),
-            "kalorien" => new StringVisitor(),
-            "kasse" => new StringVisitor(),
+            "durchschn. alk" => new DurchschnVisitor(),
+            "kalorien" => new kcalVisitor(),
+            "kasse" => new PriceVisitor(),
             "render html" => new HtmlVisitor(),
-            "waage" => new StringVisitor(),
-            _ => new StringVisitor()
+            "waage" => new WaageVisitor(),
+            _ => new PriceVisitor()
         };
     }
 }

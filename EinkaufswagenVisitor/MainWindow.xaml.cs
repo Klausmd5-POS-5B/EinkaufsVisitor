@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
 using ElementLib;
 
 namespace EinkaufswagenVisitor
@@ -24,10 +25,20 @@ namespace EinkaufswagenVisitor
         private void PanButtons_Click(object sender, RoutedEventArgs e)
         {
             var snd = (e.Source as Button);
-            Console.WriteLine(snd.Content);
+            var meth = snd.Content.ToString().GetMeth();
 
-            Console.WriteLine(snd.Content.ToString().GetMeth().ResultString);
-
+            lstCart.Items.Cast<Good>().ToList().ForEach(x => x.Accept(meth));
+            
+            if (snd.Content.ToString().Contains("HTML"))
+            {
+                new BrowserBlackMagic(meth.ResultString).Show();
+                meth.Reset();
+            }
+            else
+            {
+                MessageBox.Show(meth.ResultString);
+                meth.Reset();
+            }
         }
 
         private void BtnAddClicked(object sender, RoutedEventArgs e)
